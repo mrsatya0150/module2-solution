@@ -18,6 +18,7 @@ h2{
 	float: right;
 	border: 2px solid black;
 	margin: 0px;
+	background-color: yellow;
 }
 .chicken{
 	display: block;
